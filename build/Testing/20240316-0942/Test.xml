@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-g++"
+	BuildStamp="20240316-0942-Experimental"
+	Name="tadgh-XPS-13-9305"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/g++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="tadgh-XPS-13-9305"
+	OSRelease="5.15.0-86-generic"
+	OSVersion="#96-Ubuntu SMP Wed Sep 20 08:23:49 UTC 2023"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="140"
+	ProcessorCacheSize="12288"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15718"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3769.63"
+	>
+	<Testing>
+		<StartDateTime>Mar 16 10:27 GMT</StartDateTime>
+		<StartTestTime>1710584852</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 16 10:27 GMT</EndDateTime>
+		<EndTestTime>1710584852</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

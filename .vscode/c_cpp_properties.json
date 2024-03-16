@@ -1,0 +1,34 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/tadgh/libtorch/**",
+                "/home/tadgh/libtorch/include/torch/csrc/api/include/**",
+                "/home/tadgh/libtorch//share/cmake/Torch/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        },
+        {
+            "name": "Torchy",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/tadgh/libtorch/**",
+                "/home/tadgh/libtorch/include/torch/csrc/api/include/**",
+                "/home/tadgh/libtorch//share/cmake/Torch/**"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}

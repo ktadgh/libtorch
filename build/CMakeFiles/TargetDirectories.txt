@@ -1,0 +1,5 @@
+/home/tadgh/testingtorch/build/CMakeFiles/testing-torch.dir
+/home/tadgh/testingtorch/build/CMakeFiles/package.dir
+/home/tadgh/testingtorch/build/CMakeFiles/package_source.dir
+/home/tadgh/testingtorch/build/CMakeFiles/edit_cache.dir
+/home/tadgh/testingtorch/build/CMakeFiles/rebuild_cache.dir
